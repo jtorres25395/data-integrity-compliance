@@ -18,3 +18,8 @@ The decline began years before Guardian launched, indicating that Arizona’s us
 **Placement Data Error → Missing Authorization → Missing Payment → Public Concern**
 
 This project examines whether stronger workflow controls could protect placement records, payment continuity, and the licensed foster-home capacity that remains.
+## 3. The Reporting Gap
+
+Public reports may show 100% completion, but snapshot reporting cannot prove a continuous placement history. Our reconciliation found the strongest legacy result reached approximately 97% in 2018.
+
+Workflow gates prevent incomplete placement records from advancing, creating a continuous and auditable record.
