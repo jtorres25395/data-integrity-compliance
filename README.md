@@ -6,7 +6,7 @@ Arizona foster care reports can appear complete, yet public complaints describe 
 
 The analysis follows: placement data error → missing authorization → missing payment → public concern.
 
-This project evaluates systems and evidence—not individual motives.
+This project evaluates systems and evidence.
 ## 2. Public Impact
 
 Arizona’s average licensed foster-care caseload declined from 7,065 children in FY2016 to 2,950 in FY2024—approximately 58%.
