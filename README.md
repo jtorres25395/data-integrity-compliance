@@ -2,7 +2,7 @@
 
 Placement instability has appeared in Arizona’s child welfare system for years. Reports, audits, and system changes show repeated efforts to manage a problem that has never fully disappeared. In my experience, the Family Foster Bottleneck Theory was present in this issue.
 
-[AFCARS](https://www.hmrf.acf.hhs.gov/sites/default/files/documents/cb/afcars_tb4.pdf) set a limit on data errors. No more than 10 percent could be missing, invalid, or internally inconsistent. ACF explained that errors in the data can misrepresent state performance.
+[AFCARS](https://www.acf.hhs.gov/cb/data-research/adoption-fostercare)) set a limit on data errors. No more than 10 percent could be missing, invalid, or internally inconsistent. ACF explained that errors in the data can misrepresent state performance.
 
 We ran the numbers and the results looked strong. The totals reconciled and the error rates appeared acceptable. Then we realized the report represented one day within a six-month period.
 
