@@ -14,8 +14,8 @@ In June and July 2015, records obtained by [Phoenix New Times](https://www.phoen
 
 These settings were measurable. What remained unclear was how that activity corresponded with the placement categories in the semiannual reports we were analyzing.
 
-AFCARS already told us what to watch: missing, invalid, and internally inconsistent data. The consequences were not confined to a report. After Guardian went live in 2021, [Federal reporting requirements](https://www.ecfr.gov/current/title-45/subtitle-B/chapter-XIII/subchapter-G/part-1355/section-1355.43), and DCS acknowledged system glitches behind those delays.
+AFCARS already told us what to watch: missing, invalid, and internally inconsistent data. The consequences were not confined to a report. After Guardian went live in 2021, , and DCS acknowledged system glitches behind those delays.
 
-[Federal reporting requirements](https://www.idaresources.acf.hhs.gov/cb/training-technical-assistance/technical-bulletin-20-data-adoption) later moved toward tracking children’s removals and living arrangements across the reporting period rather than relying on a single placement view.
+[Federal reporting requirements](https://www.ecfr.gov/current/title-45/subtitle-B/chapter-XIII/subchapter-G/part-1355/section-1355.43) later moved toward tracking children’s removals and living arrangements across the reporting period rather than relying on a single placement view.
 
 The missing-placement list is therefore not a minor cleanup issue. Without sustained attention to it, the same errors can reappear in different forms. The purpose of this portfolio is to make that problem measurable while it is happening—so stakeholders can see it, understand it, and act before the next reporting period.
