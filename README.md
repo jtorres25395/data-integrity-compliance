@@ -14,7 +14,7 @@ In June and July 2015, records obtained by [Phoenix New Times](https://www.phoen
 
 These settings were measurable. What remained unclear was how that activity corresponded with the placement categories in the semiannual reports we were analyzing.
 
-AFCARS already told us what to watch: missing, invalid, and internally inconsistent data. The consequences were not confined to a report. After Guardian went live in 2021, , and DCS acknowledged system glitches behind those delays.
+AFCARS already told us what to watch: missing, invalid, and internally inconsistent data. The consequences were not confined to a report. After Guardian went live in 2021, [payment delays affected hundreds of foster and adoptive families](https://ktar.com/arizona-news/some-arizona-foster-and-adoptive-parents-experience-payment-delays), and DCS acknowledged system glitches behind those delays. 
 
 [Federal reporting requirements](https://www.ecfr.gov/current/title-45/subtitle-B/chapter-XIII/subchapter-G/part-1355/section-1355.43) later moved toward tracking children’s removals and living arrangements across the reporting period rather than relying on a single placement view.
 
