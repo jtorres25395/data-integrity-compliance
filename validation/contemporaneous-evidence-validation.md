@@ -1,0 +1,43 @@
+# Contemporaneous Evidence Validation
+
+| Period | Signal Reading | Suspected Operational Condition | Contemporaneous Evidence | Evidence Finding | Validation Result |
+|---|---|---|---|---|---|
+| **Oct 2015–Mar 2016** | **Watch** | Family-placement capacity was under substantial pressure despite children still appearing in family-based categories. | Phoenix New Times, Jan. 2016 | Children unable to be immediately placed in foster care had been using an emergency placement center; its closure raised the prospect of children again staying in DCS offices. | **Confirmed** |
+| **Apr–Sep 2016** | **Strong Success** | The placement crisis appeared to be easing, with placement flow and overall system pressure improving. | Arizona DCS, 2016 | DCS reported more children leaving than entering care and continuing reductions in the out-of-home population. | **Confirmed** |
+| **Oct 2016–Mar 2017** | **Success** | Operational recovery appeared to continue and children were being connected to placements faster. | Arizona DCS, Mar. 2017 | DCS reported average foster-placement wait time declining substantially. | **Confirmed** |
+| **Apr–Sep 2017** | **Success** | Overall placement outcomes were improving, but Family Foster capacity could still be fragile underneath the improved snapshot. | Arizona DCS / contemporaneous foster-parent reporting | Out-of-home care continued to decline while the need for foster parents remained publicly identified. | **Partial / Mixed** |
+| **Oct 2017–Mar 2018** | **Success** | Recovery continued, but maintaining adequate family-home capacity remained important. | Arizona DCS FY2018 reporting | DCS documented continued improvement and declining out-of-home population, but this did not establish that foster-home capacity problems had disappeared. | **Partial / Mixed** |
+| **Jan–Jun 2018** | **Baseline** | Reference condition used to compare later placement patterns. This period is not treated as a prediction against itself. | Arizona DCS 2018 reporting | Provides the analytical reference point for subsequent signal comparisons. | **Baseline — Not Scored** |
+| **Jul–Dec 2018** | **Watch** | Family Foster recruitment or licensing capacity was beginning to show friction. | Arizona DCS, Nov. 2018 | DCS changed foster-parent preparation requirements and identified aspects of the previous training process as barriers to recruitment. | **Confirmed** |
+| **Jan–Jun 2019** | **Success** | Snapshot outcomes remained comparatively strong, but licensed foster-home capacity may have been weakening underneath them. | Arizona Auditor General Report 19-113 | Foster-home availability declined during FY2018–19 even while the number of children in out-of-home care also declined. | **Partial / Mixed** |
+| **Jul–Dec 2019** | **Watch** | Foster-home recruitment and retention were not fully keeping pace with placement needs, particularly for harder-to-place children. | Arizona Auditor General Report 19-113 | Foster-home closures exceeded new licenses, and additional homes were needed for teens, sibling groups, and children with specialized needs. | **Confirmed** |
+| **Jan–Jun 2020** | **Watch** | Family-placement capacity was increasingly vulnerable to operational disruption. | COVID-era DCS and Arizona reporting | The pandemic introduced additional strain on families, providers, and placement operations. | **Partial** |
+| **Jul–Dec 2020** | **Warning** | Placement-location and documentation pressure appeared to be becoming more serious. | Arizona Auditor General review of 2020 missing-from-care practices | The review documented substantial runaway and missing-child populations and later identified weaknesses in documentation and tracking practices. | **Partial — Retrospective Confirmation** |
+| **Jan–Jun 2021** | **Possible Failure** | A process and data-system bottleneck appeared to be developing; changes in reported placement categories could reflect tracking problems as well as physical placement conditions. | Children's Action Alliance / Arizona DCS Guardian transition reporting | Placement-by-type reporting experienced a data lag associated with the transition to Guardian, and DCS acknowledged known data issues. | **Confirmed** |
+| **Jul–Dec 2021** | **Possible Failure** | Guardian-transition problems continued while missing-child documentation and placement processes showed additional weaknesses. | Arizona Auditor General Report 21-113 | Auditors identified documentation deficiencies and gaps in formal guidance and coordination related to children missing from care. | **Confirmed** |
+| **Jan–Jun 2022** | **High Risk** | Falling No Identified Placement did not necessarily indicate recovery; pressure appeared capable of shifting toward Group Home placement while Family Foster capacity declined. | Arizona foster-care capacity reporting | Public reporting described a substantial shortage of licensed foster families relative to placement demand. | **Confirmed** |
+| **Jul–Dec 2022** | **High Risk** | Family-placement capacity appeared sufficiently constrained that emergency-placement pressure should become publicly visible. | ABC15, Sept. 2022 | Reporting described a critical shortage of foster parents and children remaining at a DCS placement center while appropriate homes were sought. | **Confirmed** |
+| **Jan–Jun 2023** | **High Risk** | Structural placement and tracking problems appeared to remain, although individual extreme-safety indicators could improve independently. | Arizona Auditor General follow-up, 2023 | Missing/runaway prevalence improved, while some documentation and process recommendations remained unresolved. | **Partial / Mixed** |
+| **Jul–Dec 2023** | **Possible Failure** | Information-system weaknesses appeared capable of obscuring operational reality rather than merely recording placement decisions. | Arizona Governor's Office / Guardian court-document reporting | Guardian-related document problems affected hundreds of juvenile court cases and required review and corrective action. | **Confirmed** |
+| **Jan–Jun 2024** | **Possible Failure** | Congregate-care dependence and provider pressure appeared to be major symptoms while family-based placement capacity remained constrained. | Arizona news reporting, May–Jun. 2024 | DCS had to relocate approximately 200 children after multiple group-home provider contracts were not renewed. | **Confirmed** |
+| **Jul–Dec 2024** | **Possible Failure** | Family-home capacity appeared insufficient and the system remained dependent on congregate-care alternatives. | DCS and later foster-home capacity reporting | Subsequent evidence showed the licensed foster-home pool continuing to contract during this period. | **Partial — Retrospective Confirmation** |
+| **Jan–Jun 2025** | **Possible Failure** | Dependence on congregate care had become an operational and financial vulnerability because sufficient family-based capacity was unavailable. | ABC15 / Arizona Mirror, Mar. 2025 | A funding shortfall threatened group-home services for a large population of children and raised the possibility of greater reliance on temporary emergency settings. | **Confirmed** |
+| **Jul–Dec 2025** | **Possible Failure** | The Family Foster Bottleneck should now be clearly visible: inadequate family-home supply forcing continued dependence on Group Home placement. | Arizona Governor's Office / DCS, Dec. 2025 | Arizona reported a major long-term decline in licensed foster homes, identified the need for additional homes, and explicitly connected insufficient foster-family availability with Group Home use. | **Confirmed** |
+
+## Validation Key
+
+**Confirmed** — Independent evidence from the period substantially supports the operational condition predicted by the proxy signals.
+
+**Partial / Mixed** — Independent evidence supports part of the predicted condition, but also shows competing, incomplete, or more complex conditions.
+
+**Partial — Retrospective Confirmation** — Supporting evidence was identified later but specifically examined conditions occurring during the period being tested.
+
+**Baseline — Not Scored** — Reference period used to establish comparison conditions rather than test a prediction.
+
+## Validation Rule
+
+The placement signal is established from the DCS placement data before contemporaneous evidence is examined.
+
+External evidence does not determine or change the original signal. Its purpose is to independently test whether the operational condition suggested by the proxy method was observable outside the placement table.
+
+A confirmation supports the usefulness of the proxy method. A partial or contradictory result is retained rather than changed to force agreement.
