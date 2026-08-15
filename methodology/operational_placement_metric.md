@@ -1,72 +1,131 @@
-## Placement Data Integrity Methodology
+# Placement Data Integrity Methodology
 
-### Research Question
+## Research Question
 
-Can a continuously changing placement process be reliably controlled when the temporary placement-holder mechanism that preserves continuity is misunderstood, inconsistently used, or removed?
+**How do I make Relative Foster Home Placement more successful through better tracking methods that reveal what works and what doesn’t?**
 
-### Primary Analytical Sources
+This analysis examines whether Arizona DCS public placement reporting provides enough information to identify placement stability, operational pressure, and conditions that may strengthen or weaken Relative Foster Home Placement.
 
-The analysis uses two primary sources:
+## Primary Data
 
-* Arizona DCS semiannual placement reports, which provide publicly reported placement counts.
-* Arizona Joint Legislative Budget Committee (JLBC) reports, which provide foster-home placement expenditures and average monthly placement costs.
+The final analysis uses two primary data tables:
 
-These sources were intentionally kept narrow to reduce cross-contamination between datasets using different definitions or reporting structures.
+- **Relative Foster Home Placement**
+- **Semiannual Child Welfare Report – Type of Out-of-Home Placement Categorized**
 
-### Validation Sources
+These tables provide the placement counts and percentages used to examine changes across six-month reporting periods.
 
-AFCARS requirements, Auditor General findings, Guardian implementation and payment documentation, and other public records were used to test whether patterns identified in the primary data were operationally plausible.
+The analysis intentionally limits the number of datasets used so that differences in definitions, reporting periods, and measurement methods do not distort the placement signals being examined.
 
-The historical missing-placement list itself is not publicly available. Validation sources therefore provide context rather than replacing the primary calculation.
+## Measurement Rules
 
-### Analytical Rules
+Arizona DCS semiannual placement reports are treated as **point-in-time snapshots**, not continuous child-level placement histories.
 
-Placement categories within each DCS snapshot are treated as mutually exclusive. Semiannual reports are treated as point-in-time observations rather than continuous placement histories.
+Placement categories within each snapshot are mutually exclusive and together equal the published Out-of-Home Placement Total. Each child is counted once within one placement category at that reporting point.
 
-Two semiannual Family Foster counts are used to establish a representative annual placement count. Funding is compared only with the corresponding Foster Home Placement category.
+Only values actually reported by DCS are used. Missing values are not estimated to complete a table.
 
-JLBC actual expenditures are preferred when available. Estimated or approved funding is identified separately.
+**No Identified Placement (NIP)** is treated as a separate reported placement-status category.
 
-Calculated discrepancies are described as **possible unaccounted placement equivalents**, not missing children. Different datasets are not combined unless their definitions are sufficiently comparable.
+**Shelter >21 Days** includes only the publicly reported value for stays exceeding 21 consecutive days. Shorter shelter stays are not estimated.
 
-### Analytical Test
+Runaway/Absconded, No Identified Placement (NIP), Shelter >21 Days, and Missing Child when separately reported are treated as related **placement-pressure and unresolved-location signals**. These measures are examined for co-movement but are not added together as though they represent the same condition.
 
-Because the missing-placement list cannot be observed directly, the analysis tests for the reporting and financial footprint that an unresolved placement process could leave behind.
+## Analytical Process
 
-For each year:
+Each six-month reporting period is analyzed using the same sequence:
 
-**Annual Placement Cost = JLBC Average Monthly Placement Cost × 12**
+### 1. Data
 
-**Expected Foster Home Spending = Reported Family Foster Count × Annual Placement Cost**
+The reported placement values are presented first and compared with the previous six-month period.
 
-**Unexplained Difference = Actual Foster Home Placement Expenditures − Expected Foster Home Spending**
+No operational explanation is assigned at this stage.
 
-**Possible Unaccounted Placement Equivalents = Unexplained Difference ÷ Annual Placement Cost**
+### 2. Discussion
 
-The resulting pattern is then compared before and after the 2021 Guardian transition.
+Changes in the data are examined for possible operational meaning, competing explanations, and reporting limitations.
 
-### Validation
+### 3. Operational Scenario
 
-The analysis first establishes whether placement counts, JLBC costs, and expenditures behave reasonably before Guardian.
+An operational scenario is developed using established placement-process knowledge to explain how the observed pattern could have occurred.
 
-It then tests whether the unexplained placement equivalents increase around the Guardian transition and whether that change is consistent with the known placement-to-authorization workflow.
+The scenario is treated as a hypothesis rather than proof.
 
-Where comparable data exists, the same reconciliation method can be repeated across other placement categories rather than assuming the Family Foster pattern applies to the entire system.
+### 4. Contemporaneous Evidence
 
-### Limitations
+Independent evidence from the same general period is then reviewed to determine whether outside reporting documented conditions consistent with the operational scenario.
 
-This analysis is conducted from outside the operational system. Public data cannot reconstruct the original missing-placement list or identify the individual placement, authorization, payment, or child associated with a calculated discrepancy.
+Keeping the operational scenario separate from the validation evidence reduces the risk of interpreting the placement data only after knowing what outside sources reported.
 
-JLBC provides average monthly placement costs, so the calculation estimates placement equivalents rather than exact individual payments. DCS placement reports are snapshots rather than placement-day histories.
+## Proxy Signal Method
 
-The method is therefore not an exact count of missing placements. However, it uses state-reported placement counts, costs, and expenditures to identify a measurable reconciliation gap. Settled fiscal years using actual expenditures provide stronger evidence than current-year estimates.
+The public reports do not provide continuous histories showing every placement change occurring during a six-month period.
 
-### Result
+Because direct child-level movement cannot be observed, the analysis uses **proxy signals**.
 
-The method identified a persistent gap between the Family Foster population reported by DCS and the Foster Home Placement expenditures reported by JLBC.
+Changes in Relative Foster Home Placement are examined alongside surrounding placement conditions, including:
 
-The discrepancy existed before Guardian but increased substantially during the transition. Estimated possible unaccounted placement equivalents increased from approximately **833 in 2020 to 1,313 in 2021 and 1,384 in 2022**.
+- Family Foster
+- Group Home
+- Runaway/Absconded
+- No Identified Placement (NIP)
+- Shelter >21 Days
+- Missing Child when reported
 
-This does not establish that those figures represent individual missing children. It identifies a placement-accounting discrepancy that became substantially larger during the Guardian transition, consistent with the loss or weakening of a reconciliation control.
+No single proxy is treated as proof of a placement failure.
 
-The result independently supports the central concern of this portfolio: a continuously changing placement process cannot be reliably understood through static reporting alone.
+Greater analytical weight is given when several independent signals move in a consistent direction and contemporaneous evidence documents a related operational condition.
+
+## Cross-Period Comparison
+
+Each six-month period is compared with the preceding period and, when useful, with earlier periods showing similar patterns.
+
+This allows the analysis to distinguish between:
+
+- isolated changes
+- recurring conditions
+- increasing placement pressure
+- recovery
+- longer-term structural changes
+
+The purpose is to identify patterns that remain visible even when the public reporting structure cannot show the underlying child-level activity directly.
+
+## Validation
+
+The **Contemporaneous Evidence Validation** table provides the independent validation layer for the analysis.
+
+For each reporting period, the placement data first generates an operational hypothesis. Independent reporting from the same period is then reviewed to determine whether it:
+
+- supports the suspected condition,
+- provides partial support,
+- presents a competing explanation, or
+- does not confirm the signal.
+
+This prevents outside evidence from being used simply to construct a predetermined conclusion.
+
+## Limitations
+
+The analysis uses public aggregate data rather than internal child-level placement records.
+
+The semiannual snapshots cannot establish whether an individual child:
+
+- remained in the same placement throughout the six-month period,
+- entered a placement shortly before the reporting date,
+- experienced multiple placements between snapshots, or
+- moved directly from one reported category to another.
+
+The method therefore does not attempt to reconstruct individual placement histories from public data.
+
+Instead, it identifies measurable placement signals and tests whether independent evidence from the same period supports the operational interpretation.
+
+## Analytical Standard
+
+A reporting system can be mathematically complete while still providing an incomplete picture of operational activity.
+
+For that reason, this methodology does not assume that a placement table is analytically sufficient simply because its categories total correctly.
+
+The analysis asks a different question:
+
+**Can the available tracking method reveal what is strengthening Relative Foster Home Placement, what is weakening it, and where the reporting structure prevents that distinction from being made?**
+
+The objective is not simply to describe placement percentages. It is to develop a tracking approach capable of identifying what works, what does not, and where better measurement could improve Relative Foster Home Placement.
